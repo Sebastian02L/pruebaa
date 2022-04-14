@@ -1,0 +1,129 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 14 Apr 2022 12:38:05 at https://suramericanfood.wordpress.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://suramericanfood.wordpress.com/ -O1 "C:\Mis lugares Web\prueba2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:38:23	Error: 	"Method Not Allowed" (405) at link https://suramericanfood.wordpress.com/xmlrpc.php (from https://suramericanfood.wordpress.com/)
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/?share=twitter
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Men%C3%BA%20Principal&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2F
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/?share=facebook
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2F&t=Men%C3%BA%20Principal
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/testimonial/alicia-garrido/?share=twitter
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/testimonial/alicia-garrido/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Alicia%20Garrido&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2Ftestimonial%2Falicia-garrido%2F
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/testimonial/alicia-garrido/?share=facebook
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/testimonial/alicia-garrido/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2Ftestimonial%2Falicia-garrido%2F&t=Alicia%20Garrido
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/testimonial/armando-paredes/?share=twitter
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/testimonial/armando-paredes/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Armando%20Paredes&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2Ftestimonial%2Farmando-paredes%2F
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/testimonial/armando-paredes/?share=facebook
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/testimonial/armando-paredes/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2Ftestimonial%2Farmando-paredes%2F&t=Armando%20Paredes
+12:39:03	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/GET (from https://suramericanfood.wordpress.com/)
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/comida-argentina/?share=twitter
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/comida-argentina/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Comida%20Argentina&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fcomida-argentina%2F
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/comida-argentina/?share=facebook
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/comida-argentina/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fcomida-argentina%2F&t=Comida%20Argentina
+12:39:03	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/comida-argentina/GET (from https://suramericanfood.wordpress.com/comida-argentina/)
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/comida-brasilena/?share=twitter
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/comida-brasilena/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Comida%20Brasile%C3%B1a&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fcomida-brasilena%2F
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/comida-brasilena/?share=facebook
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/comida-brasilena/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fcomida-brasilena%2F&t=Comida%20Brasile%C3%B1a
+12:39:03	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/comida-brasilena/GET (from https://suramericanfood.wordpress.com/comida-brasilena/)
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/comida-chilena/?share=twitter
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/comida-chilena/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Comida%20Chilena&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fcomida-chilena%2F
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/comida-chilena/?share=facebook
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/comida-chilena/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fcomida-chilena%2F&t=Comida%20Chilena
+12:39:03	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/comida-chilena/GET (from https://suramericanfood.wordpress.com/comida-chilena/)
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/comida-ecuatoriana/?share=twitter
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/comida-ecuatoriana/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Comida%20Ecuatoriana&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fcomida-ecuatoriana%2F
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/comida-ecuatoriana/?share=facebook
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/comida-ecuatoriana/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fcomida-ecuatoriana%2F&t=Comida%20Ecuatoriana
+12:39:03	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/comida-ecuatoriana/GET (from https://suramericanfood.wordpress.com/comida-ecuatoriana/)
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/comida-mexicana/?share=twitter
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/comida-mexicana/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Comida%20Mexicana&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fcomida-mexicana%2F
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/comida-mexicana/?share=facebook
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/comida-mexicana/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fcomida-mexicana%2F&t=Comida%20Mexicana
+12:39:03	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/comida-mexicana/GET (from https://suramericanfood.wordpress.com/comida-mexicana/)
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/comida-peruana/?share=twitter
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/comida-peruana/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Comida%20Peruana&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fcomida-peruana%2F
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/comida-peruana/?share=facebook
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/comida-peruana/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fcomida-peruana%2F&t=Comida%20Peruana
+12:39:03	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/comida-peruana/GET (from https://suramericanfood.wordpress.com/comida-peruana/)
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/comida-venezolana/?share=twitter
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/comida-venezolana/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Comida%20Venezolana&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fcomida-venezolana%2F
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/comida-venezolana/?share=facebook
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/comida-venezolana/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fcomida-venezolana%2F&t=Comida%20Venezolana
+12:39:03	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/comida-venezolana/GET (from https://suramericanfood.wordpress.com/comida-venezolana/)
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/mapa-de-google/?share=twitter
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/mapa-de-google/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Mapa%20de%20Google&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fmapa-de-google%2F
+12:39:03	Warning: 	Found for https://suramericanfood.wordpress.com/mapa-de-google/?share=facebook
+12:39:03	Warning: 	File has moved from https://suramericanfood.wordpress.com/mapa-de-google/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2Fmapa-de-google%2F&t=Mapa%20de%20Google
+12:39:03	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/mapa-de-google/GET (from https://suramericanfood.wordpress.com/mapa-de-google/)
+12:39:06	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/06/acompanantes/?share=twitter
+12:39:06	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/06/acompanantes/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Acompa%C3%B1antes&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F06%2Facompanantes%2F
+12:39:06	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/06/acompanantes/?share=facebook
+12:39:06	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/06/acompanantes/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F06%2Facompanantes%2F&t=Acompa%C3%B1antes
+12:39:06	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/tag/acompanantes/GET (from https://suramericanfood.wordpress.com/tag/acompanantes/)
+12:39:07	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/05/asados/?share=twitter
+12:39:07	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/05/asados/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Asados&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F05%2Fasados%2F
+12:39:07	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/05/asados/?share=facebook
+12:39:07	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/05/asados/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F05%2Fasados%2F&t=Asados
+12:39:07	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/tag/asados/GET (from https://suramericanfood.wordpress.com/tag/asados/)
+12:39:09	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/06/convenio-latino/?share=twitter
+12:39:09	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/06/convenio-latino/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Convenio%20Latino&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F06%2Fconvenio-latino%2F
+12:39:09	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/06/convenio-latino/?share=facebook
+12:39:09	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/06/convenio-latino/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F06%2Fconvenio-latino%2F&t=Convenio%20Latino
+12:39:09	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/tag/convenio-latino/GET (from https://suramericanfood.wordpress.com/tag/convenio-latino/)
+12:39:10	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/18/criolla/?share=twitter
+12:39:10	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/18/criolla/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Criolla&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F18%2Fcriolla%2F
+12:39:10	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/18/criolla/?share=facebook
+12:39:10	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/18/criolla/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F18%2Fcriolla%2F&t=Criolla
+12:39:10	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/tag/criolla/GET (from https://suramericanfood.wordpress.com/tag/criolla/)
+12:39:11	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/06/eumerica/?share=twitter
+12:39:11	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/06/eumerica/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Eum%C3%A9rica&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F06%2Feumerica%2F
+12:39:11	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/06/eumerica/?share=facebook
+12:39:11	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/06/eumerica/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F06%2Feumerica%2F&t=Eum%C3%A9rica
+12:39:11	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/tag/eumerica/GET (from https://suramericanfood.wordpress.com/tag/eumerica/)
+12:39:12	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/06/guisos/?share=twitter
+12:39:12	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/06/guisos/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Guisos&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F06%2Fguisos%2F
+12:39:12	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/06/guisos/?share=facebook
+12:39:12	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/06/guisos/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F06%2Fguisos%2F&t=Guisos
+12:39:12	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/tag/guisos/GET (from https://suramericanfood.wordpress.com/tag/guisos/)
+12:39:14	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/06/maritima/?share=twitter
+12:39:14	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/06/maritima/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Mar%C3%ADtima&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F06%2Fmaritima%2F
+12:39:14	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/06/maritima/?share=facebook
+12:39:14	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/06/maritima/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F06%2Fmaritima%2F&t=Mar%C3%ADtima
+12:39:14	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/tag/maritima/GET (from https://suramericanfood.wordpress.com/tag/maritima/)
+12:39:15	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/18/navideno/?share=twitter
+12:39:15	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/18/navideno/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Navide%C3%B1o&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F18%2Fnavideno%2F
+12:39:15	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/18/navideno/?share=facebook
+12:39:15	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/18/navideno/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F18%2Fnavideno%2F&t=Navide%C3%B1o
+12:39:15	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/tag/navideno/GET (from https://suramericanfood.wordpress.com/tag/navideno/)
+12:39:16	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/06/postre/?share=twitter
+12:39:16	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/06/postre/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Postre&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F06%2Fpostre%2F
+12:39:16	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/06/postre/?share=facebook
+12:39:16	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/06/postre/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F06%2Fpostre%2F&t=Postre
+12:39:16	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/tag/postre/GET (from https://suramericanfood.wordpress.com/tag/postre/)
+12:39:17	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/06/vegetales/?share=twitter
+12:39:17	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/06/vegetales/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Vegetales&url=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F06%2Fvegetales%2F
+12:39:17	Warning: 	Found for https://suramericanfood.wordpress.com/2021/02/06/vegetales/?share=facebook
+12:39:17	Warning: 	File has moved from https://suramericanfood.wordpress.com/2021/02/06/vegetales/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsuramericanfood.wordpress.com%2F2021%2F02%2F06%2Fvegetales%2F&t=Vegetales
+12:39:17	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/tag/vegetales/GET (from https://suramericanfood.wordpress.com/tag/vegetales/)
+12:39:20	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://s2.wp.com/wp-content/plugins/amp-2.0/assets/images/placeholder-icon.png
+12:39:23	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/2021/02/06/acompanantes/GET (from https://suramericanfood.wordpress.com/2021/02/06/acompanantes/)
+12:39:26	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/2021/02/05/asados/GET (from https://suramericanfood.wordpress.com/2021/02/05/asados/)
+12:39:26	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/2021/02/06/convenio-latino/GET (from https://suramericanfood.wordpress.com/2021/02/06/convenio-latino/)
+12:39:27	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/2021/02/18/criolla/GET (from https://suramericanfood.wordpress.com/2021/02/18/criolla/)
+12:39:27	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/2021/02/06/eumerica/GET (from https://suramericanfood.wordpress.com/2021/02/06/eumerica/)
+12:39:28	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/2021/02/06/guisos/GET (from https://suramericanfood.wordpress.com/2021/02/06/guisos/)
+12:39:28	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/2021/02/06/maritima/GET (from https://suramericanfood.wordpress.com/2021/02/06/maritima/)
+12:39:29	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/2021/02/18/navideno/GET (from https://suramericanfood.wordpress.com/2021/02/18/navideno/)
+12:39:30	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/2021/02/06/postre/GET (from https://suramericanfood.wordpress.com/2021/02/06/postre/)
+12:39:30	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/2021/02/06/vegetales/GET (from https://suramericanfood.wordpress.com/2021/02/06/vegetales/)
+12:39:30	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/category/bienvenida/GET (from https://suramericanfood.wordpress.com/category/bienvenida/)
+12:39:30	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/category/comida-argentina/GET (from https://suramericanfood.wordpress.com/category/comida-argentina/)
+12:39:31	Error: 	"Not Found" (404) at link https://suramericanfood.wordpress.com/2020/12/15/example-post-3/GET (from https://suramericanfood.wordpress.com/2020/12/15/example-post-3/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 26 seconds : 262 links scanned, 184 files written (11551778 bytes overall) [8940843 bytes received at 103963 bytes/sec], 6024225 bytes transferred using HTTP compression in 120 files, ratio 25%, 6.6 requests per connection
+(33 errors, 85 warnings, 0 messages)
